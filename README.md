@@ -12,7 +12,7 @@ Simple Python tool for quickly adding image specs to your image. Adds informatio
 ![alt text](exampleImage.jpg)
 
 ## Used Packages
-- exifread
+- [exifread](https://pypi.org/project/ExifRead/)
 - PIL
 - glob
 - time

@@ -10,3 +10,9 @@ Simple Python tool for quickly adding image specs to your image. Adds informatio
 ## Example Image
 
 ![alt text](exampleImage.jpg)
+
+## Used Packages
+- exifread
+- PIL
+- glob
+- time

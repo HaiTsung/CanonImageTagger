@@ -13,6 +13,6 @@ Simple Python tool for quickly adding image specs to your image. Adds informatio
 
 ## Used Packages
 - [exifread](https://pypi.org/project/ExifRead/)
-- PIL
-- glob
-- time
+- [pillow](https://pypi.org/project/pillow/)
+- [glob](https://docs.python.org/3/library/glob.html)
+- [time](https://pypi.org/project/pillow/)

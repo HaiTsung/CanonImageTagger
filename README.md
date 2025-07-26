@@ -4,8 +4,10 @@ Simple Python tool for quickly adding image specs to your image. Adds informatio
 ## How To Use
 1. Download the source code
 2. Add a "input" and a "output" folder to the source codes directory
-3. Run `image_tagger.py`
-4. Retrieve created Images from output directory
+3. Run `python CleanWorkspace.py` if you want to remove all files from the input and output folders
+4. Add the images you want to get tagged to the input directory
+5. Run `python image_tagger.py`
+6. Retrieve created Images from output directory
 
 ## Example Image
 <img src="exampleImage.jpg" width="600"/>

@@ -8,3 +8,5 @@ Simple Python Tool for quickly adding Image specs to your image. Adds informatio
 4. Retrieve created Images from output directory
 
 ## Example Image
+
+![alt text](exampleImage.jpg)

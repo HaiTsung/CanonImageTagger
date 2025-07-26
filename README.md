@@ -1,5 +1,5 @@
 # CanonImageTagger
-Simple Python Tool for quickly adding Image specs to your image. Adds information about camera, focal length, aperture, shutter speed and iso to your images
+Simple Python tool for quickly adding image specs to your image. Adds information about camera, focal length, aperture, shutter speed and ISO to your images
 
 ## How To Use
 1. Download the source code

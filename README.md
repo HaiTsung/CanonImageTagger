@@ -8,8 +8,7 @@ Simple Python tool for quickly adding image specs to your image. Adds informatio
 4. Retrieve created Images from output directory
 
 ## Example Image
-<img src="exampleImage.jpg" alt="drawing" width="200"/>
-![alt text](exampleImage.jpg)
+<img src="exampleImage.jpg" width="500"/>
 
 ## Used Packages
 - [exifread](https://pypi.org/project/ExifRead/)

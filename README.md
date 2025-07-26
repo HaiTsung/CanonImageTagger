@@ -15,4 +15,4 @@ Simple Python tool for quickly adding image specs to your image. Adds informatio
 - [exifread](https://pypi.org/project/ExifRead/)
 - [pillow](https://pypi.org/project/pillow/)
 - [glob](https://docs.python.org/3/library/glob.html)
-- [time](https://pypi.org/project/pillow/)
+- [time](https://docs.python.org/3/library/time.html)

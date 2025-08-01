@@ -60,11 +60,11 @@ except ValueError:
 
 
 overlay_portrait = Image.open("overlay.png")
-overlay_landscape = Image.open("overlay_Landscape.png")
+overlay_landscape = Image.open("overlayLandscape.png")
 font = PIL.ImageFont.truetype("arial", 128)
 
 if not images:
-    print("No images in input directory found")
+    print("No valid images found")
 
 for src in images:
     imageMeta = open(src, "rb")
